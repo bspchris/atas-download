@@ -1,0 +1,15 @@
+{
+  "_comment": "aTAS clients by company code (what staff type on first open). CI publishes this file to the public repo bspchris/atas-download (main branch), where the app reads it. host = JET server, project = JET project, signupUrl = that project's form \"aTAS Staff Sign-up\" (the kiosk QR). forms (optional) = form ids, used only for an aTAS form JET doesn't list for a login; otherwise forms are found by name. Only addresses here: no passwords or keys.",
+  "clients": {
+    "BOSMA": {
+      "name": "Bosma",
+      "host": "https://jet.mybosma.com/JET",
+      "project": "Bosma",
+      "signupUrl": "https://jet.mybosma.com/JET/form_mobile.php?id_form=456&project=Bosma",
+      "forms": {
+        "locations": 436, "employees": 437, "shifts": 438, "slots": 439, "schedule": 440,
+        "holidays": 441, "punches": 442, "leaves": 443, "overtime": 444, "daily": 445
+      }
+    }
+  }
+}
