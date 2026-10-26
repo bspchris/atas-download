@@ -12,6 +12,18 @@
         "holidays": 441, "punches": 442, "leaves": 443, "overtime": 444, "daily": 445,
         "perms": 446, "creds": 447, "enrol": 448, "devices": 453, "transfers": 457, "signin": 458
       }
+    },
+    "EXCAPADE": {
+      "name": "Excapade",
+      "host": "https://jet.mybosma.com/JET",
+      "project": "Excapade",
+      "signupUrl": "https://jet.mybosma.com/JET/form_mobile.php?id_form=15&project=Excapade",
+      "requestsUrl": "https://jet.mybosma.com/JET/form_mobile.php?id_form=21&project=Excapade",
+      "forms": {
+        "locations": 1, "employees": 2, "shifts": 3, "slots": 4, "schedule": 5,
+        "holidays": 6, "punches": 7, "leaves": 8, "overtime": 9, "daily": 10,
+        "perms": 11, "creds": 12, "enrol": 13, "devices": 14, "transfers": 16, "signin": 17
+      }
     }
   }
 }
