@@ -26,6 +26,18 @@
         "perms": 11, "creds": 12, "enrol": 13, "devices": 14, "transfers": 16, "signin": 17,
         "inbox": 20, "late": 22, "diagnostics": 19
       }
+    },
+    "BSBDEMO": {
+      "name": "bsbdemo",
+      "host": "https://jet.mybosma.com/JET",
+      "project": "bsbdemo",
+      "signupUrl": "https://jet.mybosma.com/JET/form_mobile.php?id_form=240&project=bsbdemo",
+      "forms": {
+        "locations": 224, "employees": 225, "shifts": 226, "slots": 227, "schedule": 228,
+        "holidays": 229, "punches": 230, "leaves": 231, "overtime": 232, "daily": 233,
+        "perms": 234, "creds": 235, "enrol": 236, "devices": 239, "transfers": 241, "signin": 243,
+        "inbox": 246, "late": 250, "diagnostics": 245
+      }
     }
   }
 }
