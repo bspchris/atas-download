@@ -32,6 +32,7 @@
       "host": "https://jet.mybosma.com/JET",
       "project": "bsbdemo",
       "signupUrl": "https://jet.mybosma.com/JET/form_mobile.php?id_form=240&project=bsbdemo",
+      "requestsUrl": "https://jet.mybosma.com/JET/form_mobile.php?id_form=247&project=bsbdemo",
       "forms": {
         "locations": 224, "employees": 225, "shifts": 226, "slots": 227, "schedule": 228,
         "holidays": 229, "punches": 230, "leaves": 231, "overtime": 232, "daily": 233,
