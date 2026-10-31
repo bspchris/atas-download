@@ -24,7 +24,7 @@
         "locations": 1, "employees": 2, "shifts": 3, "slots": 4, "schedule": 5,
         "holidays": 6, "punches": 7, "leaves": 8, "overtime": 9, "daily": 10,
         "perms": 11, "creds": 12, "enrol": 13, "devices": 14, "transfers": 16, "signin": 17,
-        "inbox": 20, "late": 22, "diagnostics": 19
+        "inbox": 20, "late": 22, "diagnostics": 19, "termusers": 24
       }
     },
     "BSBDEMO": {
