@@ -11,7 +11,7 @@
         "locations": 436, "employees": 437, "shifts": 438, "slots": 439, "schedule": 440,
         "holidays": 441, "punches": 442, "leaves": 443, "overtime": 444, "daily": 445,
         "perms": 446, "creds": 447, "enrol": 448, "devices": 453, "transfers": 457, "signin": 458,
-        "inbox": 475, "late": 486, "diagnostics": 460
+        "inbox": 475, "late": 486, "diagnostics": 460, "termusers": 487
       }
     },
     "EXCAPADE": {
@@ -37,7 +37,7 @@
         "locations": 224, "employees": 225, "shifts": 226, "slots": 227, "schedule": 228,
         "holidays": 229, "punches": 230, "leaves": 231, "overtime": 232, "daily": 233,
         "perms": 234, "creds": 235, "enrol": 236, "devices": 239, "transfers": 241, "signin": 243,
-        "inbox": 246, "late": 250, "diagnostics": 245
+        "inbox": 246, "late": 250, "diagnostics": 245, "termusers": 251
       }
     }
   }
