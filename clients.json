@@ -39,7 +39,8 @@
         "locations": 224, "employees": 225, "shifts": 226, "slots": 227, "schedule": 228,
         "holidays": 229, "punches": 230, "leaves": 231, "overtime": 232, "daily": 233,
         "perms": 234, "creds": 235, "enrol": 236, "devices": 239, "transfers": 241, "signin": 243,
-        "inbox": 246, "late": 250, "diagnostics": 245, "termusers": 251
+        "inbox": 246, "late": 250, "diagnostics": 245, "termusers": 251,
+        "msgs": 252, "msgreads": 253
       }
     }
   }
