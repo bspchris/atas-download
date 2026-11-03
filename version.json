@@ -1,10 +1,9 @@
 {
-  "version": "1.18.64",
-  "build": 194,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.64/aTAS-v1.18.64.apk",
+  "version": "1.18.65",
+  "build": 195,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.65/aTAS-v1.18.65.apk",
   "notes": [
-    "Your day is worked out the same way as the updated aTAS Cloud: a day with only a check-out shows Incomplete, split shifts count late and early-out per time slot, a running overnight shift is not Incomplete, and overtime on long days is counted correctly.",
-    "A Check Out right after a break is no longer stopped as a double punch (only the same kind of punch twice is).",
-    "Settings → About: shorter connection line."
+    "Check for updates: Download update now opens in your phone's browser, which shows Open when the download is done, so the update no longer looks stuck at 100%.",
+    "The update window explains where to tap after the download."
   ]
 }
