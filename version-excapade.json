@@ -1,11 +1,9 @@
 {
-  "version": "1.18.63",
-  "build": 193,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/excapade-v1.18.63/aTAS-v1.18.63.apk",
+  "version": "1.18.65",
+  "build": 196,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/excapade-v1.18.65/aTAS-v1.18.65.apk",
   "notes": [
-    "New: Check for updates in the menu. When a new version is out, the menu shows a red dot and \"Update ready\"; tap Download update, then Update. You stay signed in.",
-    "Stays signed in when aTAS is busy (for example many phones opening at once at the start of a shift): it shows \"aTAS is busy right now\" and reconnects by itself, instead of asking for your PIN.",
-    "Kiosk: uses much less data. It downloads staff faces again only when someone enrols or a face or PIN is reset.",
-    "Split shifts: between time slots, the app says when the next slot starts and when you can check in."
+    "Check for updates: Download update now opens in your phone's browser, which shows Open when the download is done, so the update no longer looks stuck at 100%.",
+    "The update window explains where to tap after the download."
   ]
 }
