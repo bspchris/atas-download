@@ -1,8 +1,11 @@
 {
-  "version": "1.18.66",
-  "build": 197,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.66/aTAS-v1.18.66.apk",
+  "version": "1.18.67",
+  "build": 198,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.67/aTAS-v1.18.67.apk",
   "notes": [
-    "A punch your admin corrects or deletes in aTAS Cloud now shows on your phone within about 2 minutes (before: up to 4 hours, or the next day)."
+    "Punch corrections from aTAS Cloud are applied more reliably, including right after the app's background refresh.",
+    "When aTAS is busy at the start of a shift, the app waits quietly instead of retrying every second, and stays signed in.",
+    "A repeat punch on a day without a shift is checked the same way as aTAS Cloud counts it.",
+    "Check for updates offers only your company's version."
   ]
 }
