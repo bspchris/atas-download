@@ -1,9 +1,8 @@
 {
-  "version": "1.18.65",
-  "build": 195,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.65/aTAS-v1.18.65.apk",
+  "version": "1.18.66",
+  "build": 197,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.66/aTAS-v1.18.66.apk",
   "notes": [
-    "Check for updates: Download update now opens in your phone's browser, which shows Open when the download is done, so the update no longer looks stuck at 100%.",
-    "The update window explains where to tap after the download."
+    "A punch your admin corrects or deletes in aTAS Cloud now shows on your phone within about 2 minutes (before: up to 4 hours, or the next day)."
   ]
 }
