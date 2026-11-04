@@ -19,6 +19,7 @@
       "name": "Excapade",
       "host": "https://jet.mybosma.com/JET",
       "project": "Excapade",
+      "channel": "excapade",
       "signupUrl": "https://jet.mybosma.com/JET/form_mobile.php?id_form=15&project=Excapade",
       "requestsUrl": "https://jet.mybosma.com/JET/form_mobile.php?id_form=21&project=Excapade",
       "forms": {
