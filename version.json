@@ -1,14 +1,11 @@
 {
-  "version": "1.18.69",
-  "build": 200,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.69/aTAS-v1.18.69.apk",
+  "version": "1.18.70",
+  "build": 201,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.70/aTAS-v1.18.70.apk",
   "notes": [
-    "Checked out during your shift? You can't check in again that day: the app asks you to inform HR, who corrects it. Your next time slot of a split shift and approved overtime still open as before.",
-    "Check Out before your shift ends now warns you first (on the phone and the kiosk): how early it is, that you can't check in again today, and to use Break Start for a break.",
-    "Half-day leave has no morning / afternoon choice any more: any approved half day lets you check in, with no early check-out warning that day.",
-    "Changes HR makes in aTAS Cloud to your punches, shift schedule or saved day reach the app within a few minutes (the kiosk also takes yesterday's punch fixes).",
-    "A shift ending at midnight, or a late check-out after midnight, is saved on the shift's own day.",
-    "Staff whose JET login can't read Daily Attendance now see their supervisor's adjustments.",
-    "Calculations match aTAS Cloud's latest rules (including a half day worked through the break, and a warning when a first check-in is past the absent limit)."
+    "Overtime requests aTAS sends to HR by itself are marked \"Sent automatically\" (in your list and in manager Approvals).",
+    "History shows each day's overtime and when it was clocked, worded as aTAS Cloud: for example \"Overtime 1 h 30 m paid · 17:30–19:00\" or \"Overtime clocked 1 h 30 m, not approved\".",
+    "History's break now includes time away between a check-out and a check-in, and a forgotten OT Out is pointed out, as on the aTAS Cloud board.",
+    "Calculations follow aTAS Cloud's latest rules: with no break punched, half the shift or less on site takes no break off and is a half day; a half day without approved half-day leave shows \"Half Day (not approved)\"."
   ]
 }
