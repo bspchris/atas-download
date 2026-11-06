@@ -1,11 +1,8 @@
 {
-  "version": "1.18.70",
-  "build": 201,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.70/aTAS-v1.18.70.apk",
+  "version": "1.18.71",
+  "build": 204,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.71/aTAS-v1.18.71.apk",
   "notes": [
-    "Overtime requests aTAS sends to HR by itself are marked \"Sent automatically\" (in your list and in manager Approvals).",
-    "History shows each day's overtime and when it was clocked, worded as aTAS Cloud: for example \"Overtime 1 h 30 m paid · 17:30–19:00\" or \"Overtime clocked 1 h 30 m, not approved\".",
-    "History's break now includes time away between a check-out and a check-in, and a forgotten OT Out is pointed out, as on the aTAS Cloud board.",
-    "Calculations follow aTAS Cloud's latest rules: with no break punched, half the shift or less on site takes no break off and is a half day; a half day without approved half-day leave shows \"Half Day (not approved)\"."
+    "Check for updates now downloads the update itself, with a progress bar, and opens Android's installer when it's done: no browser in between, so it no longer looks stuck at 100%. The first time, Android asks you to allow installing from aTAS. This works from the next update on."
   ]
 }
