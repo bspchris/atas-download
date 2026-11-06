@@ -27,7 +27,7 @@
         "holidays": 6, "punches": 7, "leaves": 8, "overtime": 9, "daily": 10,
         "perms": 11, "creds": 12, "enrol": 13, "devices": 14, "transfers": 16, "signin": 17,
         "inbox": 20, "late": 22, "diagnostics": 19, "termusers": 24,
-        "msgs": 25, "msgreads": 26
+        "msgs": 25, "msgreads": 26, "punchchg": 27
       }
     },
     "BSBDEMO": {
@@ -41,7 +41,7 @@
         "holidays": 229, "punches": 230, "leaves": 231, "overtime": 232, "daily": 233,
         "perms": 234, "creds": 235, "enrol": 236, "devices": 239, "transfers": 241, "signin": 243,
         "inbox": 246, "late": 250, "diagnostics": 245, "termusers": 251,
-        "msgs": 252, "msgreads": 253
+        "msgs": 252, "msgreads": 253, "punchchg": 254
       }
     }
   }
