@@ -1,8 +1,14 @@
 {
-  "version": "1.18.68",
-  "build": 199,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.68/aTAS-v1.18.68.apk",
+  "version": "1.18.69",
+  "build": 200,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.69/aTAS-v1.18.69.apk",
   "notes": [
-    "Check for updates: after the download, tap Open Downloads, then the aTAS file, then Update. For phones where the download finishes but the installer never opens."
+    "Checked out during your shift? You can't check in again that day: the app asks you to inform HR, who corrects it. Your next time slot of a split shift and approved overtime still open as before.",
+    "Check Out before your shift ends now warns you first (on the phone and the kiosk): how early it is, that you can't check in again today, and to use Break Start for a break.",
+    "Half-day leave has no morning / afternoon choice any more: any approved half day lets you check in, with no early check-out warning that day.",
+    "Changes HR makes in aTAS Cloud to your punches, shift schedule or saved day reach the app within a few minutes (the kiosk also takes yesterday's punch fixes).",
+    "A shift ending at midnight, or a late check-out after midnight, is saved on the shift's own day.",
+    "Staff whose JET login can't read Daily Attendance now see their supervisor's adjustments.",
+    "Calculations match aTAS Cloud's latest rules (including a half day worked through the break, and a warning when a first check-in is past the absent limit)."
   ]
 }
