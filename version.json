@@ -1,8 +1,9 @@
 {
-  "version": "1.18.71",
-  "build": 204,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.71/aTAS-v1.18.71.apk",
+  "version": "1.18.72",
+  "build": 206,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.72/aTAS-v1.18.72.apk",
   "notes": [
-    "Check for updates now downloads the update itself, with a progress bar, and opens Android's installer when it's done: no browser in between, so it no longer looks stuck at 100%. The first time, Android asks you to allow installing from aTAS. This works from the next update on."
+    "Excapade: staff without their own JET login can sign in with aTAS ID (scan your manager's QR, check it's you, choose a 6-digit PIN).",
+    "Changes HR makes in aTAS Cloud reach the app within minutes on bsbdemo and Excapade too."
   ]
 }
