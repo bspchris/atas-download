@@ -1,9 +1,8 @@
 {
-  "version": "1.18.72",
-  "build": 206,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.72/aTAS-v1.18.72.apk",
+  "version": "1.18.73",
+  "build": 208,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.73/aTAS-v1.18.73.apk",
   "notes": [
-    "Excapade: staff without their own JET login can sign in with aTAS ID (scan your manager's QR, check it's you, choose a 6-digit PIN).",
-    "Changes HR makes in aTAS Cloud reach the app within minutes on bsbdemo and Excapade too."
+    "Hours worked on a day with no break punched now match aTAS Cloud's new break rule: the break comes off only after half the working day on site, a minute at a time, so staying longer never pays less."
   ]
 }
