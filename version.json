@@ -1,9 +1,10 @@
 {
-  "version": "1.18.75",
-  "build": 210,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.75/aTAS-v1.18.75.apk",
+  "version": "1.18.76",
+  "build": 211,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.76/aTAS-v1.18.76.apk",
   "notes": [
-    "bsbdemo: staff without their own JET login can register with aTAS ID (scan the QR from the Back-Office, check it's you, choose a 6-digit PIN).",
-    "After registering, the setup screen shows your name and \"Signed in\" instead of a blank name and \"JET account\"."
+    "Staff who have left are signed out of the app straight away: \"Your account is no longer active. Ask HR.\"",
+    "After registering with a QR code, a note says how to check in at the Kiosk Terminal (with your face).",
+    "Plainer words for staff: \"Sign in with your PIN\", \"Register with QR\", \"Kiosk Terminal\"."
   ]
 }
