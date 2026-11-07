@@ -1,10 +1,10 @@
 {
-  "version": "1.18.76",
-  "build": 211,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.76/aTAS-v1.18.76.apk",
+  "version": "1.18.77",
+  "build": 212,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.77/aTAS-v1.18.77.apk",
   "notes": [
-    "Staff who have left are signed out of the app straight away: \"Your account is no longer active. Ask HR.\"",
-    "After registering with a QR code, a note says how to check in at the Kiosk Terminal (with your face).",
-    "Plainer words for staff: \"Sign in with your PIN\", \"Register with QR\", \"Kiosk Terminal\"."
+    "New app icon.",
+    "New sign-in screen: \"Your attendance, in your pocket.\" Register with QR, or Login with JET.",
+    "The sign-in screen fits Samsung Fold and dual-screen phones: two halves when opened."
   ]
 }
