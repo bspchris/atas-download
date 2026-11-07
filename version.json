@@ -1,9 +1,9 @@
 {
-  "version": "1.18.74",
-  "build": 209,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.74/aTAS-v1.18.74.apk",
+  "version": "1.18.75",
+  "build": 210,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.75/aTAS-v1.18.75.apk",
   "notes": [
-    "Sign out: if the fingerprint doesn't work on your phone, tap \"Use PIN instead\" and enter your aTAS PIN.",
-    "The phone's fingerprint prompt no longer shows its message twice."
+    "bsbdemo: staff without their own JET login can register with aTAS ID (scan the QR from the Back-Office, check it's you, choose a 6-digit PIN).",
+    "After registering, the setup screen shows your name and \"Signed in\" instead of a blank name and \"JET account\"."
   ]
 }
