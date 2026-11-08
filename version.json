@@ -1,10 +1,8 @@
 {
-  "version": "1.18.77",
-  "build": 212,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.77/aTAS-v1.18.77.apk",
+  "version": "1.18.78",
+  "build": 213,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.78/aTAS-v1.18.78.apk",
   "notes": [
-    "New app icon.",
-    "New sign-in screen: \"Your attendance, in your pocket.\" Register with QR, or Login with JET.",
-    "The sign-in screen fits Samsung Fold and dual-screen phones: two halves when opened."
+    "Kiosk Terminal offline: punches use the correct time even if the tablet's clock is wrong, and are refused if its date or time was put back."
   ]
 }
