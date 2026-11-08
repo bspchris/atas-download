@@ -1,8 +1,8 @@
 {
-  "version": "1.18.78",
-  "build": 213,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.78/aTAS-v1.18.78.apk",
+  "version": "1.18.79",
+  "build": 214,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.79/aTAS-v1.18.79.apk",
   "notes": [
-    "Kiosk Terminal offline: punches use the correct time even if the tablet's clock is wrong, and are refused if its date or time was put back."
+    "Today shows \"day off\", \"rest day\", \"public holiday\" or \"on leave\" on the clock, with a friendly line, instead of \"ready when you are\"."
   ]
 }
