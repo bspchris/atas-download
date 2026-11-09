@@ -1,9 +1,9 @@
 {
-  "version": "1.18.83",
-  "build": 218,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.83/aTAS-v1.18.83.apk",
+  "version": "1.18.85",
+  "build": 220,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.85/aTAS-v1.18.85.apk",
   "notes": [
-    "iPhone: no \"Check for updates\" (updates come through TestFlight / the App Store).",
-    "iPhone: registration QR links open the app; Settings buttons open aTAS in iPhone Settings; wording says Face ID."
+    "iPhone: if the face files can't be read inside the app, they download from the online copy, so face set-up works.",
+    "Includes 1.18.84 (Android didn't get 1.18.84: GitHub's build service was down)."
   ]
 }
