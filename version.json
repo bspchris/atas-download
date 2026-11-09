@@ -1,9 +1,8 @@
 {
-  "version": "1.18.89",
-  "build": 224,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.89/aTAS-v1.18.89.apk",
+  "version": "1.18.90",
+  "build": 225,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.90/aTAS-v1.18.90.apk",
   "notes": [
-    "Start-up screen without the white square, and an opening animation with \"Your attendance, in your pocket.\"",
-    "Swiping back on the main screen closes the app (you stay signed in); from another tab it returns to Today."
+    "Tips for late or missing reminders now show after \"Send a test reminder\", as points."
   ]
 }
