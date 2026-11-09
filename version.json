@@ -1,9 +1,9 @@
 {
-  "version": "1.18.88",
-  "build": 223,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.88/aTAS-v1.18.88.apk",
+  "version": "1.18.89",
+  "build": 224,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.89/aTAS-v1.18.89.apk",
   "notes": [
-    "New Settings design: Check-in, Reminders, App (Check for updates) and About, one row per setting.",
-    "\"Profile\" is now called \"Me\"."
+    "Start-up screen without the white square, and an opening animation with \"Your attendance, in your pocket.\"",
+    "Swiping back on the main screen closes the app (you stay signed in); from another tab it returns to Today."
   ]
 }
