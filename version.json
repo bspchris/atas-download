@@ -1,9 +1,8 @@
 {
-  "version": "1.18.80",
-  "build": 215,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.80/aTAS-v1.18.80.apk",
+  "version": "1.18.81",
+  "build": 216,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.81/aTAS-v1.18.81.apk",
   "notes": [
-    "iPhone: the screen no longer runs under the clock and battery, and the menu opens.",
-    "iPhone: the app says Face ID instead of fingerprint."
+    "iPhone: the header and menu now sit below the clock and battery (the 1.18.80 fix gets the real status-bar height)."
   ]
 }
