@@ -1,8 +1,9 @@
 {
-  "version": "1.18.87",
-  "build": 222,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.87/aTAS-v1.18.87.apk",
+  "version": "1.18.88",
+  "build": 223,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.88/aTAS-v1.18.88.apk",
   "notes": [
-    "iPhone: face enrolment and face check-in no longer freeze while loading or at \"Get ready\"."
+    "New Settings design: Check-in, Reminders, App (Check for updates) and About, one row per setting.",
+    "\"Profile\" is now called \"Me\"."
   ]
 }
