@@ -1,8 +1,9 @@
 {
-  "version": "1.18.79",
-  "build": 214,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.79/aTAS-v1.18.79.apk",
+  "version": "1.18.80",
+  "build": 215,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.80/aTAS-v1.18.80.apk",
   "notes": [
-    "Today shows \"day off\", \"rest day\", \"public holiday\" or \"on leave\" on the clock, with a friendly line, instead of \"ready when you are\"."
+    "iPhone: the screen no longer runs under the clock and battery, and the menu opens.",
+    "iPhone: the app says Face ID instead of fingerprint."
   ]
 }
