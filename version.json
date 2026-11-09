@@ -1,8 +1,9 @@
 {
-  "version": "1.18.81",
-  "build": 216,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.81/aTAS-v1.18.81.apk",
+  "version": "1.18.82",
+  "build": 217,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.82/aTAS-v1.18.82.apk",
   "notes": [
-    "iPhone: the header and menu now sit below the clock and battery (the 1.18.80 fix gets the real status-bar height)."
+    "iPhone: face set-up and face check-in load the face engine (it failed to load).",
+    "If the face engine can't load, the message now says why."
   ]
 }
