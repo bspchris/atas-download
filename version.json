@@ -1,9 +1,9 @@
 {
-  "version": "1.18.85",
-  "build": 220,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.85/aTAS-v1.18.85.apk",
+  "version": "1.18.86",
+  "build": 221,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.86/aTAS-v1.18.86.apk",
   "notes": [
-    "iPhone: if the face files can't be read inside the app, they download from the online copy, so face set-up works.",
-    "Includes 1.18.84 (Android didn't get 1.18.84: GitHub's build service was down)."
+    "History shows this month only; on the 1st it moves to the new month.",
+    "iPhone: face enrolment no longer stays at \"Get ready\"; if the face check can't run, the screen says why."
   ]
 }
