@@ -1,11 +1,8 @@
 {
-  "version": "1.18.93",
-  "build": 228,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.93/aTAS-v1.18.93.apk",
+  "version": "1.18.94",
+  "build": 230,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.94/aTAS-v1.18.94.apk",
   "notes": [
-    "Overtime needs no approval to start: check in for overtime any time, also on rest days, days off and public holidays.",
-    "The bar of your day shows during your shift too, with how many breaks you took.",
-    "Leaves: fold or open each list. Theme: Auto, White or Black (Settings).",
-    "Settings only as the 4th tab. Admin Panel asks for your fingerprint or PIN, with Register staff inside; approvals"
+    "Overtime without approval is for Bosma: other companies keep their usual overtime rule."
   ]
 }
