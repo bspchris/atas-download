@@ -1,8 +1,8 @@
 {
-  "version": "1.18.94",
-  "build": 230,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.94/aTAS-v1.18.94.apk",
+  "version": "1.18.95",
+  "build": 231,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.95/aTAS-v1.18.95.apk",
   "notes": [
-    "Overtime without approval is for Bosma: other companies keep their usual overtime rule."
+    "Overtime without approval, sent to HR when you check out, now also for bsbdemo and Excapade."
   ]
 }
