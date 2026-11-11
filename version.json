@@ -1,8 +1,9 @@
 {
-  "version": "1.18.90",
-  "build": 225,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.90/aTAS-v1.18.90.apk",
+  "version": "1.18.91",
+  "build": 226,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.91/aTAS-v1.18.91.apk",
   "notes": [
-    "Tips for late or missing reminders now show after \"Send a test reminder\", as points."
+    "iPhone: face enrolment and face check-in find your face quickly (a faster face engine on iPhone).",
+    "A short opening with \"Your attendance, in your pocket.\" each time the app starts."
   ]
 }
