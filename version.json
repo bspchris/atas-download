@@ -1,9 +1,11 @@
 {
-  "version": "1.18.91",
-  "build": 226,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.91/aTAS-v1.18.91.apk",
+  "version": "1.18.92",
+  "build": 227,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.92/aTAS-v1.18.92.apk",
   "notes": [
-    "iPhone: face enrolment and face check-in find your face quickly (a faster face engine on iPhone).",
-    "A short opening with \"Your attendance, in your pocket.\" each time the app starts."
+    "Today after your shift: \"Shift done\", a bar of your day with In, Break and Out, and overtime in purple.",
+    "Today's timeline as cards, marked Late, Early out or OT.",
+    "One simple note for a late check-in or early check-out, with the right check-out time.",
+    "History is now inside Me, under your details and attendance bar. Settings has its own tab."
   ]
 }
