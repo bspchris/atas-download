@@ -1,8 +1,8 @@
 {
-  "version": "1.18.95",
-  "build": 231,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.95/aTAS-v1.18.95.apk",
+  "version": "1.18.96",
+  "build": 232,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.96/aTAS-v1.18.96.apk",
   "notes": [
-    "Overtime without approval, sent to HR when you check out, now also for bsbdemo and Excapade."
+    "A shift that covers several outlets shows your own outlet on Today."
   ]
 }
