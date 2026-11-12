@@ -1,8 +1,9 @@
 {
-  "version": "1.18.96",
-  "build": 232,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.96/aTAS-v1.18.96.apk",
+  "version": "1.18.97",
+  "build": 234,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.97/aTAS-v1.18.97.apk",
   "notes": [
-    "A shift that covers several outlets shows your own outlet on Today."
+    "Overtime on Today follows the shift's grace: a few minutes after the shift end are no longer shown as overtime.",
+    "An overtime session shows the overtime as counted (the same as History)."
   ]
 }
