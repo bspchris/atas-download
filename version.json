@@ -1,9 +1,12 @@
 {
-  "version": "1.18.97",
-  "build": 234,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.97/aTAS-v1.18.97.apk",
+  "version": "1.18.98",
+  "build": 235,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.98/aTAS-v1.18.98.apk",
   "notes": [
-    "Overtime on Today follows the shift's grace: a few minutes after the shift end are no longer shown as overtime.",
-    "An overtime session shows the overtime as counted (the same as History)."
+    "A shift with its rules off (set in aTAS Cloud) has no late, early out or overtime: only the time you work counts.",
+    "An early check-out stays an early check-out when overtime follows; History and the timecard show \"Early out\".",
+    "The timecard PDF shows overtime that is not approved in grey, and never adds it to the totals.",
+    "Ask AI explains what is sent and to whom before the first question.",
+    "The Kiosk Terminal checks staff by face."
   ]
 }
