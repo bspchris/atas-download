@@ -1,8 +1,8 @@
 {
-  "version": "1.18.99",
-  "build": 236,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.99/aTAS-v1.18.99.apk",
+  "version": "1.18.100",
+  "build": 237,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.100/aTAS-v1.18.100.apk",
   "notes": [
-    "The day bar on Today shows your break taken and the break allowed today, for example 0m / 2h on a Friday."
+    "OT Check-In after you check out is a round button, like Break and Check Out."
   ]
 }
