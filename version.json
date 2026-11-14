@@ -1,11 +1,9 @@
 {
-  "version": "1.18.102",
-  "build": 240,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.102/aTAS-v1.18.102.apk",
+  "version": "1.18.103",
+  "build": 241,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.103/aTAS-v1.18.103.apk",
   "notes": [
-    "New here without a QR code? Sign up with your phone number: your manager approves it in the app.",
-    "Managers: the Admin Panel has an Approve tab for phones waiting for approval.",
-    "Kiosk Terminal: a PIN typed for Register my phone is checked online by aTAS. With no internet, use your face.",
-    "A cleaner sign-in screen: no company details, and your name instead of your email during setup."
+    "\"Updating your data…\" no longer stays on: a load that hangs stops after 30 seconds. Tap the bar to see what is loading.",
+    "Sign up with your phone number: the waiting screen checks for your manager's approval every 30 seconds."
   ]
 }
