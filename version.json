@@ -1,8 +1,10 @@
 {
-  "version": "1.18.104",
-  "build": 242,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.104/aTAS-v1.18.104.apk",
+  "version": "1.18.105",
+  "build": 243,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.105/aTAS-v1.18.105.apk",
   "notes": [
-    "bsbdemo: new staff can sign up with their phone number; their manager approves it in the app."
+    "The side menu opens faster and smoother.",
+    "After your manager resets your PIN, the app asks you straight away to choose a new one.",
+    "If your manager removes your phone, the app says so as soon as you open it."
   ]
 }
