@@ -1,9 +1,8 @@
 {
-  "version": "1.18.103",
-  "build": 241,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.103/aTAS-v1.18.103.apk",
+  "version": "1.18.104",
+  "build": 242,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.104/aTAS-v1.18.104.apk",
   "notes": [
-    "\"Updating your data…\" no longer stays on: a load that hangs stops after 30 seconds. Tap the bar to see what is loading.",
-    "Sign up with your phone number: the waiting screen checks for your manager's approval every 30 seconds."
+    "bsbdemo: new staff can sign up with their phone number; their manager approves it in the app."
   ]
 }
