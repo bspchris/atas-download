@@ -1,10 +1,8 @@
 {
-  "version": "1.18.105",
-  "build": 243,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.105/aTAS-v1.18.105.apk",
+  "version": "1.18.106",
+  "build": 244,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.106/aTAS-v1.18.106.apk",
   "notes": [
-    "The side menu opens faster and smoother.",
-    "After your manager resets your PIN, the app asks you straight away to choose a new one.",
-    "If your manager removes your phone, the app says so as soon as you open it."
+    "Leaves: your leave and overtime requests, and your late and early-out reasons, show for this month and coming days only. Last month's are no longer listed."
   ]
 }
