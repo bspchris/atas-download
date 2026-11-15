@@ -1,9 +1,9 @@
 {
-  "version": "1.18.108",
-  "build": 246,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.108/aTAS-v1.18.108.apk",
+  "version": "1.18.109",
+  "build": 247,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.109/aTAS-v1.18.109.apk",
   "notes": [
-    "Attendance: on a finished shift day, a last break punch in the final 30 minutes of the shift counts as your check-out (as aTAS Cloud).",
-    "Sign up with your phone number: the number box no longer shows an example number."
+    "An old registration QR no longer opens again by itself when the app starts.",
+    "After your manager removes your phone, the app goes straight to the company code."
   ]
 }
