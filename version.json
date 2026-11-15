@@ -1,11 +1,9 @@
 {
-  "version": "1.18.107",
-  "build": 245,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.107/aTAS-v1.18.107.apk",
+  "version": "1.18.108",
+  "build": 246,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.108/aTAS-v1.18.108.apk",
   "notes": [
-    "Signing up with your phone number: you see your manager's approval within about 10 seconds.",
-    "On a rest day, day off or public holiday the button is the purple OT Check-In: it is recorded as overtime and sent to HR.",
-    "If your manager removes your phone, the app resets itself: enter your company code to start again.",
-    "bsbdemo: managers can see who has opened a message, not only who confirmed it."
+    "Attendance: on a finished shift day, a last break punch in the final 30 minutes of the shift counts as your check-out (as aTAS Cloud).",
+    "Sign up with your phone number: the number box no longer shows an example number."
   ]
 }
