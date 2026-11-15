@@ -1,8 +1,11 @@
 {
-  "version": "1.18.106",
-  "build": 244,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.106/aTAS-v1.18.106.apk",
+  "version": "1.18.107",
+  "build": 245,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.107/aTAS-v1.18.107.apk",
   "notes": [
-    "Leaves: your leave and overtime requests, and your late and early-out reasons, show for this month and coming days only. Last month's are no longer listed."
+    "Signing up with your phone number: you see your manager's approval within about 10 seconds.",
+    "On a rest day, day off or public holiday the button is the purple OT Check-In: it is recorded as overtime and sent to HR.",
+    "If your manager removes your phone, the app resets itself: enter your company code to start again.",
+    "bsbdemo: managers can see who has opened a message, not only who confirmed it."
   ]
 }
