@@ -1,9 +1,8 @@
 {
-  "version": "1.18.109",
-  "build": 247,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.109/aTAS-v1.18.109.apk",
+  "version": "1.18.110",
+  "build": 248,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.110/aTAS-v1.18.110.apk",
   "notes": [
-    "An old registration QR no longer opens again by itself when the app starts.",
-    "After your manager removes your phone, the app goes straight to the company code."
+    "A punch is never saved twice when the connection drops right after sending. If the app isn't sure it was saved, it says so: check your timeline before trying again."
   ]
 }
