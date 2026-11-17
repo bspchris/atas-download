@@ -1,9 +1,8 @@
 {
-  "version": "0.11",
-  "build": 249,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/roster-v0.11/aTAS-v0.11.apk",
+  "version": "0.12",
+  "build": 250,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/roster-v0.12/aTAS-v0.12.apk",
   "notes": [
-    "New app, aTAS Roster (Bosma), for the outlet's tablet. Sign in once with the outlet's kiosk login; a manager taps their name and enters their PIN to open the roster, and it locks again after 2 minutes without a touch.",
-    "The week of the outlet's people from the Shift Schedule, grouped by department (tap a department to collapse or open it): set shifts or rest days, mark someone away, give a day to someone free, then Publish. aTAS Cloud and staff phones show the changes."
+    "The roster is now on for bsbdemo too."
   ]
 }
