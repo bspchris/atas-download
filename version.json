@@ -1,9 +1,8 @@
 {
-  "version": "1.18.111",
-  "build": 252,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.111/aTAS-v1.18.111.apk",
+  "version": "1.18.112",
+  "build": 253,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.112/aTAS-v1.18.112.apk",
   "notes": [
-    "If the connection drops just as you punch, the app now checks by itself whether your punch was saved: if it was, it shows as done; if not, it is sent again once. You only see a message when the aTAS server can't be reached at all. A punch is still never saved twice.",
-    "Punching is quicker, most of all on iPhone: the app reuses the location it found a moment ago instead of waiting for a new GPS fix, and a weak indoor fix no longer makes you wait unless your outlet only allows punches on site."
+    "Punching now works on WiFi networks that cut the app's own connection while the internet still works (it used to say \"was not saved: the connection to the aTAS server keeps dropping\" on WiFi but work on mobile data). Once the app has checked that the punch was not saved, it sends it again over the phone's browser connection. A punch is still never saved twice."
   ]
 }
