@@ -1,8 +1,11 @@
 {
-  "version": "1.18.112",
-  "build": 253,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.112/aTAS-v1.18.112.apk",
+  "version": "1.18.113",
+  "build": 254,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.113/aTAS-v1.18.113.apk",
   "notes": [
-    "Punching now works on WiFi networks that cut the app's own connection while the internet still works (it used to say \"was not saved: the connection to the aTAS server keeps dropping\" on WiFi but work on mobile data). Once the app has checked that the punch was not saved, it sends it again over the phone's browser connection. A punch is still never saved twice."
+    "Bosma and bsbdemo: overtime is open to everyone after your shift ends, with no approval needed to start. You can do more than one overtime session in a day (OT In, OT Out, then OT In again later). Each session is sent to HR as its own overtime request, with its own times, and HR decides if it is approved.",
+    "Bosma and bsbdemo: the \"Request overtime\" form is gone from the phone and the kiosk, since overtime no longer needs asking first. Approved overtime no longer lets you check in again after checking out during your shift.",
+    "Bosma and bsbdemo: if you stay late and check out without OT In, the time after your shift is sent to HR as overtime and your Today screen says so.",
+    "Bosma and bsbdemo kiosks: a clock-out saved while offline now sends its overtime request when it syncs, instead of the next day."
   ]
 }
