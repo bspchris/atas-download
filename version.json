@@ -1,11 +1,9 @@
 {
-  "version": "1.18.113",
-  "build": 254,
-  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.113/aTAS-v1.18.113.apk",
+  "version": "1.18.114",
+  "build": 255,
+  "apk": "https://github.com/bspchris/atas-download/releases/download/v1.18.114/aTAS-v1.18.114.apk",
   "notes": [
-    "Bosma and bsbdemo: overtime is open to everyone after your shift ends, with no approval needed to start. You can do more than one overtime session in a day (OT In, OT Out, then OT In again later). Each session is sent to HR as its own overtime request, with its own times, and HR decides if it is approved.",
-    "Bosma and bsbdemo: the \"Request overtime\" form is gone from the phone and the kiosk, since overtime no longer needs asking first. Approved overtime no longer lets you check in again after checking out during your shift.",
-    "Bosma and bsbdemo: if you stay late and check out without OT In, the time after your shift is sent to HR as overtime and your Today screen says so.",
-    "Bosma and bsbdemo kiosks: a clock-out saved while offline now sends its overtime request when it syncs, instead of the next day."
+    "The first open of the day is quicker. While you use the app, it gets tomorrow's Today ready on your phone, so the next morning Today and the Check In button show straight away and are checked against aTAS behind. Your punch is still checked against aTAS before it is saved.",
+    "In the morning, the app renews its sign-in before asking for your data, instead of being refused first and asking again, and it reads your attendance figures together with your punches. Fresh data arrives sooner."
   ]
 }
